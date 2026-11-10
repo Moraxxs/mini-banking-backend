@@ -2,3 +2,6 @@
 __pycache__/
 *.pyc
 .env
+bot-v4.js
+bot.js
+README.md
